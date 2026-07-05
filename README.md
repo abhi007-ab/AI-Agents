@@ -25,3 +25,11 @@ Report Validator
         ↓
 Final Research Report
 
+## 📁 Project Structure
+
+research_assistant/
+│
+├── agent.py              # Main ADK agent (workflow + root agent)
+├── .env                  # Environment variables
+├── requirements.txt      # Dependencies
+└── README.md             # Project documentation
