@@ -6,8 +6,6 @@ A multi-agent AI research system built using Google ADK that generates structure
 
 ## 🏗️ Architecture
 
-### Workflow
-
 ```text
 User Input (Topic)
 → Research Planner
@@ -15,7 +13,7 @@ User Input (Topic)
 → Research Writer
 → Report Validator
 → Final Research Report
-
+```
 
 ## 📁 Project Structure
 
@@ -26,6 +24,7 @@ research_assistant/
 ├── .env                  # Environment variables
 ├── requirements.txt      # Dependencies
 └── README.md             # Project documentation
+```
 
 ##  🔧 Tech Stack
 1. Google ADK
