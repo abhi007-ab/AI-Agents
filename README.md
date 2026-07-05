@@ -25,10 +25,3 @@ Report Validator
         ↓
 Final Research Report
 
-
-
-
-
-
-
-
