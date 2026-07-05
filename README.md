@@ -8,12 +8,12 @@ One of the clearest explanations comes from the research paper ReAct: Synergizin
 That cycle of reasoning, acting, observing, and adjusting is the foundation of how modern AI agents work. And it lines up with how Google Cloud defines them: systems with reasoning, planning, and memory, with enough autonomy to adapt and make decisions on behalf of the user.
 
 
-🏗️ Architecture
+## 🏗️ Architecture
 
 The system follows a Plan → Validate → Write → Validate workflow:
 
-""" 
-   User Input (Topic)
+```text
+User Input (Topic)
         ↓
 Research Planner
         ↓
@@ -24,4 +24,11 @@ Research Writer
 Report Validator
         ↓
 Final Research Report
-"""
+
+
+
+
+
+
+
+
